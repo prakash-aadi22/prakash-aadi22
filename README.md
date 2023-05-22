@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ... Java & Python
 - 💞️ I’m looking to collaborate on ... Java Projets
-- 📫 How to reach me ... @prakash-aadi22
+- 📫 How to reach me ... Instagram/Twitter - @prakash-aadi22
 
 <!---
 prakash-aadi22/prakash-aadi22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
