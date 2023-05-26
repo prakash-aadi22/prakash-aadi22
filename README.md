@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Aditya Prakash</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-<img align="right" alt="Progrmming" height="400" width="700" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Progrmming" height="500" width="1000" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash-aadi22&label=Profile%20views&color=0e75b6&style=flat" alt="prakash-aadi22" /> </p>
 
