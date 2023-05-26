@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ... Aditya Prakash
 - 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ... Java & Python
-- 💞️ I’m looking to collaborate on ... Java Projets
+- 💞️ I’m looking to collaborate on ... Java Projects
 - 📫 How to reach me ... Instagram/Twitter - @prakash-aadi22
 
 <!---
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available at [https://prakashaadi22.my.canva.site](https://prakashaadi22.my.canva.site)
 
-- ⚡ Fun fact **I love MARVEL**
+- ⚡ Fun fact **⋉I love MARVEL⋊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
