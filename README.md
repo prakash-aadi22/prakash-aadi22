@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://prakashaadi22.my.canva.site](https://prakashaadi22.my.canva.site)
+- 👨‍💻 Connect me --> [https://linktr.ee/prakash_aadi22](https://linktr.ee/prakash_aadi22)
 
 - ⚡ Fun fact **⋉I love MARVEL⋊**
 
