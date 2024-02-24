@@ -1,5 +1,1 @@
-- 👋 Hi, I’m ... Aditya Prakash
-- 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... Java & Python
-- 💞️ I’m looking to collaborate on ... Java Projects
-- 📫 How to reach me ... Instagram/Twitter - @prakash-aadi22
+https://linktr.ee/prakash_aadi22
