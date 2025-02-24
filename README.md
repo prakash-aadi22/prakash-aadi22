@@ -5,9 +5,7 @@
  / ___ \ (_| | | |_| |_| | (_| |    |  __/| | | (_| |   < (_| \__ \ | | |
 /_/   \_\__,_|_|\__|\__, |\__,_|    |_|   |_|  \__,_|_|\_\__,_|___/_| |_|
                     |___/                                                
-``` 
-
-# Hey, I'm Aditya Prakash! 🚀
+```
 
 > **“Code is like humor. When you have to explain it, it’s bad.” – Cory House**
 
