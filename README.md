@@ -1,53 +1,59 @@
-## Hey there! I'm Aditya Prakash 🚀
+```
+   ___      _        _        _            
+  / _ \  __| |  ___ | |_   __| | ___  _ __  
+ | | | |/ _` | / _ \| __| / _` |/ _ \| '_ \ 
+ | |_| | (_| ||  __/| |_ | (_| |  __/| | | |
+  \___/ \__,_| \___| \__| \__,_|\___||_| |_|
+``` 
 
-> **“Code is like humor. When you have to explain it, it’s bad.”** – Cory House
+# Hey, I'm Aditya Prakash! 🚀
 
-### 🌟 Who Am I?
-A **Full Stack Developer** on a mission to craft seamless and interactive digital experiences. I turn coffee ☕ into **clean, efficient, and scalable code**. Passionate about solving real-world problems and constantly upgrading my tech arsenal.
+> **“Code is poetry, and I write verses that power the web.”**
 
----
+### 🎭 Developer | Problem Solver | Tech Explorer
 
-### 🛠️ My Developer Toolkit
-
-🔹 **Frontend:** React.js ⚛️ | JavaScript ⚡ | Bootstrap 🎨 | CSS & HTML 🖥️  
-🔹 **Backend:** CodeIgniter 4 🚀 | PHP 🐘 | REST APIs 🌐  
-🔹 **Version Control:** Git 🎭 | GitHub 🌍  
-🔹 **Tools:** VS Code 🛠️ | Postman 📬 | Terminal Magic 🖥️
-
----
-
-### 🔥 Currently Exploring
-- React.js animations 🎬
-- Advanced backend optimizations ⚙️
-- Cloud deployment 🚀
+Welcome to my **digital playground**, where creativity meets logic and innovation fuels progress. I thrive on building applications that solve real-world problems while ensuring a seamless user experience.
 
 ---
 
-### 🎯 Featured Projects
-#### **🚀 [My Portfolio](https://github.com/prakash-aadi22/prakash-aadi22.github.io)**
-An interactive and **responsive portfolio** showcasing my skills, projects, and contact details.
+## 🌌 My Tech Universe
 
-#### **📊 Reward Manager**
-A dynamic system that manages **rewards from different websites**, making it easy for companies to showcase them.
-
-#### **📌 Task Tracker**
-A sleek project tracker to **monitor, assign, and analyze tasks** efficiently.
+🔹 **Frontend Magic** ✨ – React.js | JavaScript | Bootstrap | HTML & CSS  
+🔹 **Backend Wizardry** 🔮 – CodeIgniter 4 | PHP | REST APIs  
+🔹 **Database Alchemy** 🧪 – MySQL | Firebase  
+🔹 **DevOps Arsenal** 🛠 – GitHub | VS Code | Postman  
 
 ---
 
-### 🔍 GitHub Insights
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakash-aadi22&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-aadi22&layout=compact&theme=tokyonight)
+## 🚀 Mission Control: Current Focus
+
+🚀 **Bringing React.js animations to life** 🎬  
+☁️ **Deploying full-stack apps in the cloud** 🌐  
+⚙️ **Optimizing backend performance** 🔧  
 
 ---
 
-### 📫 Let's Connect
+## 🔥 Featured Projects
+
+🌟 **[My Portfolio](https://github.com/prakash-aadi22/prakash-aadi22.github.io)** – A dynamic showcase of my skills, projects, and expertise.  
+🎁 **Reward Manager** – A smart system that makes digital rewards effortless for businesses.  
+📌 **Task Tracker** – A productivity booster for managing projects efficiently.  
+
+---
+
+## 📊 GitHub Activity Snapshot
+
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakash-aadi22&show_icons=true&theme=radical)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-aadi22&layout=compact&theme=radical)
+
+---
+
+## 🌎 Let's Build the Future Together!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-prakash-2209/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakashaditya2209@gmail.com)
 
 ---
 
-🎯 **“Build. Break. Learn. Repeat.”**
-
-💬 Let's collaborate and create something amazing! 🚀
+🚀 **Let's connect, collaborate, and innovate. The best ideas are built together!**
 
