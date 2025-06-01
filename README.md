@@ -8,7 +8,7 @@ Welcome to my **digital playground**, where creativity meets logic and innovatio
 
 ## 🔥 Featured Projects
 
-🌟 **[My Portfolio](https://prakash-aadi22.github.io/)** – A dynamic showcase of my skills, projects, and expertise.  
+🌟 **[My Portfolio](https://aditya-prakash-portfolio.vercel.app)** – A dynamic showcase of my skills, projects, and expertise.  
 
 ---
 
